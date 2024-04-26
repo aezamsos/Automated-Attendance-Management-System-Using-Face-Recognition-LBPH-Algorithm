@@ -61,7 +61,9 @@ Attendance data will be stored in the connected database.
 
 To Purchase
 
-For inquiries about purchasing the project at a reasonable rate, please contact:
+For inquiries about purchasing the project at a reasonable rate, 
+
+please contact:
 
 Email: aezamsos@gmail.com
 
