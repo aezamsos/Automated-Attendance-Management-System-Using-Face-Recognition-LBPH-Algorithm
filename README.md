@@ -59,12 +59,16 @@ Attendance data will be stored in the connected database.
 
 
 
-Purchase
+To Purchase
+
 For inquiries about purchasing the project at a reasonable rate, please contact:
 
 Email: aezamsos@gmail.com
+
 WhatsApp: +918328476955
+
 Contributor
+
 Aazam Shareef.
 ![N1](https://github.com/aezamsos/Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm/assets/120459990/6bee64a9-fed7-4fa6-a863-5141ad806284)
 ![N2](https://github.com/aezamsos/Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm/assets/120459990/e98484a9-c466-4a45-b21c-35bd1d9e6487)
