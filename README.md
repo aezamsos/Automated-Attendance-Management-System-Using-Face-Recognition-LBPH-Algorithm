@@ -44,3 +44,9 @@ Email: aezamsos@gmail.com
 WhatsApp: +918328476955
 Contributor
 Aazam Shareef.
+![N1](https://github.com/aezamsos/Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm/assets/120459990/6bee64a9-fed7-4fa6-a863-5141ad806284)
+![N2](https://github.com/aezamsos/Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm/assets/120459990/e98484a9-c466-4a45-b21c-35bd1d9e6487)
+![N3](https://github.com/aezamsos/Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm/assets/120459990/e744ba59-2342-49f3-b40c-d4d94c0d41b5)
+![N4](https://github.com/aezamsos/Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm/assets/120459990/f376cb04-0745-412a-b8e2-0afc77b185ae)
+![N5](https://github.com/aezamsos/Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm/assets/120459990/092140fe-fc7f-4e34-9bf0-fb04f3cc6e9b)
+
