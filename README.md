@@ -18,10 +18,15 @@ Create Folder Name Called "TrainingImages" in Project Folder.
 Ensure the following libraries are installed:
 
 tkinter
+
 cv2 (OpenCV)
+
 numpy
+
 PIL (Pillow)
+
 pandas
+
 pymysql
 
 Installation Steps
