@@ -1,5 +1,3 @@
-Here's a polished README file for your GitHub repository:
-
 ---
 
 # Automated Attendance Management System Using Face Recognition (LBPH Algorithm)
