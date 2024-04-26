@@ -11,6 +11,8 @@ It integrates with databases like Oracle 19c or 21c.
 
 Requires Windows 10 with a minimum of 8GB RAM.
 
+
+
 PREREQUISITES - JUST FOLLOW THE STEPS:
 
 Create Folder Name Called "TrainingImages" in Project Folder.
@@ -29,6 +31,8 @@ pandas
 
 pymysql
 
+
+
 INSTALLATION STEPS
 
 Install Python on your system.
@@ -43,6 +47,8 @@ Ensure Oracle 19c or 21c is installed and accessible.
 
 Clone or download this repository to your local machine.
 
+
+
 CONFIGURATION
 
 Replace file paths as necessary in AMS_RUN.py to match your directory structure.
@@ -56,6 +62,8 @@ Execute the following command to run the system:
 COPY CODE
 
 python AMS_RUN.py
+
+
 
 USAGE
 
