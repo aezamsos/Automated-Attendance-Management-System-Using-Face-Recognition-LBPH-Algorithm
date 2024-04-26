@@ -5,8 +5,10 @@ Automated Attendance Management System (AMS)
 
 Overview
 
-This project implements an Automated Attendance Management System using Python. The system utilizes facial recognition technology (LBPH Algorithm) for attendance tracking. 
+This project implements an Automated Attendance Management System using Python. The system utilizes facial recognition technology (LBPH Algorithm) for attendance tracking.
+
 It integrates with databases like Oracle 19c or 21c.
+
 Requires Windows 10 with a minimum of 8GB RAM.
 
 Prerequisites - Just Follow The Steps:
