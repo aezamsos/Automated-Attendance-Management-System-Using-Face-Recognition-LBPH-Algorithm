@@ -1,9 +1,9 @@
 # Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm
 The "Automated Attendance Management System Using Face Recognition (LBPH Algorithm)" automates attendance tracking through facial recognition. It employs the LBPH algorithm for accurate identification, replacing manual methods with efficient, reliable automation.
 
-Automated Attendance Management System (AMS)
 
-Overview
+
+OVERVIEW
 
 This project implements an Automated Attendance Management System using Python. The system utilizes facial recognition technology (LBPH Algorithm) for attendance tracking.
 
@@ -11,7 +11,7 @@ It integrates with databases like Oracle 19c or 21c.
 
 Requires Windows 10 with a minimum of 8GB RAM.
 
-Prerequisites - Just Follow The Steps:
+PREREQUISITES - JUST FOLLOW THE STEPS:
 
 Create Folder Name Called "TrainingImages" in Project Folder.
 
@@ -29,7 +29,8 @@ pandas
 
 pymysql
 
-Installation Steps
+INSTALLATION STEPS
+
 Install Python on your system.
 
 Install the required libraries using pip:
@@ -42,7 +43,7 @@ Ensure Oracle 19c or 21c is installed and accessible.
 
 Clone or download this repository to your local machine.
 
-Configuration
+CONFIGURATION
 
 Replace file paths as necessary in AMS_RUN.py to match your directory structure.
 
@@ -52,11 +53,11 @@ Navigate to the directory containing AMS_RUN.py.
 
 Execute the following command to run the system:
 
-Copy code
+COPY CODE
 
 python AMS_RUN.py
 
-Usage
+USAGE
 
 Upon running AMS_RUN.py, the system will initiate the attendance tracking interface.
 
@@ -66,7 +67,7 @@ Attendance data will be stored in the connected database.
 
 
 
-To Purchase
+TO PURCHASE
 
 For inquiries about purchasing the project at a reasonable rate, 
 
