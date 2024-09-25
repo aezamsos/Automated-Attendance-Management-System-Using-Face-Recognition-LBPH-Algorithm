@@ -48,10 +48,9 @@ This project implements an Automated Attendance Management System using Python. 
 - Follow on-screen instructions to capture and recognize faces for attendance purposes.
 - Attendance data will be stored in the connected database.
 
-## To Purchase
+## Connect with Me
 
-For inquiries about purchasing the project at a reasonable rate, please contact:
-
+- [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
 - Email: aezamsos@gmail.com
 - WhatsApp: +918328476955
 
