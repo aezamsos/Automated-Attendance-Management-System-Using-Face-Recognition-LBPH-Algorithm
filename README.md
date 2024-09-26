@@ -8,6 +8,17 @@
 
 The "Automated Attendance Management System Using Face Recognition (LBPH Algorithm)" automates attendance tracking through facial recognition. It employs the LBPH algorithm for accurate identification, replacing manual methods with efficient, reliable automation.
 
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Contact](#contact)
+- [Future Work](#future-work)
+- [License](#license)
+
 ## Overview
 
 This project implements an Automated Attendance Management System using Python. The system utilizes facial recognition technology (LBPH Algorithm) for attendance tracking. It integrates with databases like Oracle 19c or 21c and requires Windows 10 with a minimum of 8GB RAM.
