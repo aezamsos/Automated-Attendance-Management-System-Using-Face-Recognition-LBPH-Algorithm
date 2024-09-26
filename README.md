@@ -1,4 +1,10 @@
-# Automated Attendance Management System Using Face Recognition (LBPH Algorithm) ![Status](https://img.shields.io/badge/status-completed-brightgreen)
+# Automated Attendance Management System Using Face Recognition (LBPH Algorithm) 
+
+![Status](https://img.shields.io/badge/status-completed-brightgreen) 
+![Version](https://img.shields.io/badge/version-1.0.0-blue) 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/language-Python-orange) 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 The "Automated Attendance Management System Using Face Recognition (LBPH Algorithm)" automates attendance tracking through facial recognition. It employs the LBPH algorithm for accurate identification, replacing manual methods with efficient, reliable automation.
 
