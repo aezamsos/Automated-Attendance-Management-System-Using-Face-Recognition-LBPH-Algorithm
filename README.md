@@ -15,8 +15,7 @@ The "Automated Attendance Management System Using Face Recognition (LBPH Algorit
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [Contact](#contact)
-- [Future Work](#future-work)
+- [Contact](#contact-with-me)
 - [License](#license)
 
 ## Overview
