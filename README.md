@@ -68,7 +68,6 @@ This project implements an Automated Attendance Management System using Python. 
 
 - [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
 - Email: aezamsos@gmail.com
-- WhatsApp: +918328476955
 
 ## Contributor
 
